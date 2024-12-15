@@ -1,0 +1,455 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow-x: hidden;
+}
+
+/* About */
+.About {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 2227px;
+  width: 1920px;
+  z-index: 98;
+}
+.Bg__Shape-first {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 279px;
+  height: 967px;
+  z-index: 97;
+}
+.Illustration {
+  position: absolute;
+  left: 213px;
+  top: 38px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 96;
+}
+.Title-About {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 93;
+}
+.OUR_COMPANY {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(255, 57, 70);
+  font-weight: bold;
+  line-height: 1.153;
+  position: absolute;
+  left: 972.844px;
+  top: 25px;
+  z-index: 92;
+}
+.Some_Fine_Words_Abou {
+  font-size: 48.425px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  font-weight: bold;
+  line-height: 1.239;
+  text-align: left;
+  position: absolute;
+  left: 967.93px;
+  top: 70px;
+  z-index: 91;
+  max-width: 384px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+.Vestibulum_ac_diam_s-About {
+  font-size: 16px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  line-height: 1.667;
+  transform: scale(1.008, 1);
+  position: absolute;
+  left: 968.242px;
+  top: 274.723px;
+  width: 580.39px;
+  height: 193.894px;
+  z-index: 90; 
+}
+.Path-R {
+  position: absolute;
+  left: 970px;
+  top: 437px;
+  width: 15px;
+  height: 18px;
+  z-index: 89;
+}
+.Path-L {
+  position: absolute;
+  left: 1011px;
+  top: 437px;
+  width: 30px;
+  height: 18px;
+  z-index: 88;
+}
+.Bg__Shape-Second {
+  position: absolute;
+  left: 1583px;
+  top: 0px;
+  width: 337px;
+  height: 859px;
+  z-index: 86;
+}
+
+  /* Portfolio */
+.Portfolio {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 86;
+} 
+.See_some_of_our_Crea {
+  font-size: 48.425px;
+  font-family: "Work Sans";
+  font-weight: bold;
+  color: rgb(49, 69, 132);
+  line-height: 1.239;
+  position: absolute;
+  left: 370.937px;
+  top: 628px;
+  z-index: 85;
+  max-width: 390px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+.Path-R-Portfolio {
+  position: absolute;
+  left: 1470px;
+  top: 704px;
+  width: 15px;
+  height: 18px;
+  z-index: 84;
+}
+.Path-L-Portfolio {
+  position: absolute;
+  left: 1512px;
+  top: 704px;
+  width: 29px;
+  height: 19px;
+  z-index: 83;
+}
+.See_More_of_These_ {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(255, 57, 70);
+  font-weight: bold;
+  line-height: 1.153;
+  position: absolute;
+  left: 867.096px;
+  top: 1456.25px;
+  z-index: 76;
+}
+.Bg__Shape-third {
+  position: absolute;
+  left: 0px;
+  top: 693px;
+  width: 925px;
+  height: 904px;
+  z-index: 75;
+}
+   
+.Photo-one {
+  position: absolute;
+  left: 370.937px;
+  top: 811px;
+  z-index: 75;
+}
+.Photo-two {
+  position: absolute;
+  left: 770.937px;
+  top: 811px;
+  z-index: 75;
+}
+.Photo-three {
+  position: absolute;
+  left: 1170.937px;
+  top: 811px;
+  z-index: 75;
+}
+.Photo-four {
+  position: absolute;
+  left: 370.937px;
+  top: 1121.937px;
+  z-index: 75;
+}
+.Photo-five {
+  position: absolute;
+  left: 770.937px;
+  top: 1121.937px;
+  z-index: 75;
+}
+.Photo-six {
+  position: absolute;
+  left: 1170.937px;
+  top: 1121.937px;
+  z-index: 75;
+}
+
+
+
+/* Blog */
+.Blog {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 71;
+}
+ .Title {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 70;
+} 
+.BLOG_STORIES {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(255, 57, 70);
+  font-weight: bold;
+  line-height: 1.153;
+  position: absolute;
+  left: 382.844px;
+  top: 1613.25px;
+  z-index: 69;
+}
+.Check_Our_News {
+  font-size: 48.425px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  font-weight: bold;
+  line-height: 1.239;
+  position: absolute;
+  left: 374.937px;
+  top: 1642.25px;
+  z-index: 68;
+}
+
+
+/* Design for the first box  */
+ .Post_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 66;
+}
+.Box-Orange {
+  background-color: rgb(255, 57, 70);
+  box-shadow: 0px 5px 10px 0px rgba(25, 45, 51, 0.15);
+  position: absolute;
+  left: 370px;
+  top: 1782px;
+  width: 371px;
+  height: 351px;
+  z-index: 61;
+}
+.New_Adventure-Orange-Box {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.153;
+  position: absolute;
+  left: 44px;
+  top: 52px;
+  z-index: 65;
+}
+._17_March_2019-Orange-Box {
+  font-size: 14px;
+  font-family: "Work Sans";
+  color: rgb(255, 255, 255);
+  line-height: 2.143;
+  position: absolute;
+  left: 44px;
+  top: 88px;
+  z-index: 64;
+}
+.Vestibulum_ac_diam_s-Orange-Box {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(255, 255, 255);
+  line-height: 1.667;
+  position: absolute;
+  left: 44px;
+  top: 144.67px;
+  width: 284px;
+  height: 77px;
+  z-index: 62;
+}
+.Arrow-White-Orange-Box {
+  position: absolute;
+  left: 311px;
+  top: 287.50px;
+  width: 30px;
+  height: 18px;
+  z-index: 63;
+}
+
+
+/* Design for the second box  */
+.Post_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 59;
+}
+.Box-White-one {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 5px 10px 0px rgba(25, 45, 51, 0.15);
+  position: absolute;
+  left: 770px;
+  top: 1782px;
+  width: 371px;
+  height: 351px;
+  z-index: 54;
+}
+.New_Adventure-Box-White-one {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  font-weight: bold;
+  line-height: 1.153;
+  position: absolute;
+  left: 44px;
+  top: 52px;
+  z-index: 58;
+}
+._17_March_2019-Box-White-one {
+  font-size: 14px;
+  font-family: "Work Sans";
+  color: rgb(110, 117, 122);
+  line-height: 2.143;
+  position: absolute;
+  left: 44px;
+  top: 88px;
+  z-index: 57;
+}
+.Vestibulum_ac_diam_s-Box-White-one {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  line-height: 1.667;
+  position: absolute;
+  left: 44px;
+  top: 144.67px;
+  width: 284px;
+  height: 77px;
+  z-index: 56;
+}
+.Arrow-Orange-Box-White-one {
+  position: absolute;
+  left: 313px;
+  top: 287.50px;
+  width: 30px;
+  height: 18px;
+  z-index: 55;
+}
+
+
+/* Design for the third box  */
+.Post_3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 2233px;
+  z-index: 52;
+}
+.Box-White-two {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 5px 10px 0px rgba(25, 45, 51, 0.15);
+  position: absolute;
+  left: 1171px;
+  top: 1782px;
+  width: 371px;
+  height: 351px;
+  z-index: 47;
+}
+.New_Adventure-Box-White-two {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  font-weight: bold;
+  line-height: 1.153;
+  position: absolute;
+  left: 44px;
+  top: 52px;
+  z-index: 58;
+}
+._17_March_2019-Box-White-two {
+  font-size: 14px;
+  font-family: "Work Sans";
+  color: rgb(110, 117, 122);
+  line-height: 2.143;
+  position: absolute;
+  left: 44px;
+  top: 88px;
+  z-index: 57;
+}
+.Vestibulum_ac_diam_s-Box-White-two {
+  font-size: 18px;
+  font-family: "Work Sans";
+  color: rgb(49, 69, 132);
+  line-height: 1.667;
+  position: absolute;
+  left: 44px;
+  top: 144.67px;
+  width: 284px;
+  height: 77px;
+  z-index: 56;
+}
+.Arrow-Orange-Box-White-two {
+  position: absolute;
+  left: 313px;
+  top: 287.50px;
+  width: 30px;
+  height: 18px;
+  z-index: 55;
+}
+
+
+/* Design for arrows and spots in the rest of the sector */
+.Path-R-Blog {
+  position: absolute;
+  left: 1470px;
+  top: 1688px;
+  width: 15px;
+  height: 19px;
+  z-index: 45;
+}
+.Path-L-Blog {
+  position: absolute;
+  left: 1512px;
+  top: 1688px;
+  width: 29px;
+  height: 19px;
+  z-index: 44;
+}
+.Bg__Shape-fourth {
+  position: absolute;
+  left: 1502px;
+  top: 1761px;
+  width: 418px;
+  height: 667px;
+  z-index: 43;
+}
